@@ -106,7 +106,7 @@ a:hover {
 }
 @media screen and (max-width: 800px) {
   h2{
-    font-size: 40px;
+    font-size: 30px;
     padding-top: 6em;   
   }
   p {
