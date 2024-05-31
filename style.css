@@ -1039,7 +1039,7 @@ H1::before {
   position: absolute;
   padding-top: 0.9em;  
   top: 5%;
-  left: 0.5em;
+  left: 0.7em;
   width: 0%;
   height: 100%;
   color: whitesmoke;
@@ -1052,11 +1052,11 @@ H1::before {
 @keyframes animate {
   0%,
   {
-    width: -8%;
+    width: -5%;
   }
   70%,
   90% {
-    width: 100%;
+    width: 90%;
   }
 }
 @media screen and (max-width: 600px) {
@@ -1065,7 +1065,7 @@ H1::before {
     padding-top: 5.3em;
   }
   H1::before{
-    padding-top: 0.8em;  
+    padding-top: 0.2em;  
     top: 70%;
     bottom: ;
     left: 1em;
