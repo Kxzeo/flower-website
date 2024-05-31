@@ -1079,7 +1079,7 @@ h1::before {
     padding-top: 3em;
   }
   H1::before{
-    padding-top: 0.5em;  
+    padding-top: 5em;  
     top: 73%;
     bottom: ;
     left: 1em;
