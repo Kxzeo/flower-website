@@ -1066,10 +1066,10 @@ H1::before {
   }
   H1::before{
     padding-top: 0.2em;  
-    top: 70%;
+    top: 75%;
     bottom: ;
     left: 0.1em;
-    height: 35%;
+    height: 30%;
 
   }
 }
