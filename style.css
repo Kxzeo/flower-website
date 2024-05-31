@@ -1039,7 +1039,7 @@ H1::before {
   position: absolute;
   padding-top: 0.9em;  
   top: 5%;
-  left: 1em;
+  left: 0;
   width: 0%;
   height: 100%;
   color: whitesmoke;
