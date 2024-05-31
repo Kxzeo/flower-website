@@ -107,7 +107,7 @@ a:hover {
   color: green;
 
 }
-@media screen and (max-width: 1000px) {
+@media screen and (max-width: 800px) {
   h2{
     font-size: 40px;
     padding-top: 10em;   
@@ -131,7 +131,7 @@ a:hover {
   }
   button {
     margin-top: 15%;
-    margin-left: 28%;
+    margin-left: 35%;
   }
  
 }
