@@ -1052,11 +1052,11 @@ H1::before {
 @keyframes animate {
   0%,
   {
-    width: -5%;
+    width: 0%;
   }
   70%,
   90% {
-    width: 90%;
+    width: 100%;
   }
 }
 @media screen and (max-width: 600px) {
@@ -1068,7 +1068,7 @@ H1::before {
     padding-top: 0.2em;  
     top: 70%;
     bottom: ;
-    left: 0em;
+    left: 0.1em;
     height: 35%;
 
   }
